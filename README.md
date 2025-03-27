@@ -11,3 +11,6 @@ Nothing noteworthy to see here really as I mainly self-host my git repositories.
 - Interested and actively learning various OS syscalls like linux `mmap()`, and windows `VirtualAlloc()`.
 
 #### If you need to contact me: `logan@mccuistion.my` works.
+
+
+![kill](./kill.png)
